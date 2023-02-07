@@ -1,0 +1,4 @@
+typescript:
+    version: 2.0.0
+    packagename: '@attentive/sdk'
+    author: attentive
